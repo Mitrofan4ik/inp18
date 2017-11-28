@@ -1,1 +1,1 @@
-# inp18
+simple project
