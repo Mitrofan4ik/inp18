@@ -107,3 +107,46 @@
 .inp-inputs-block.border {
   border-right: 1.5px solid #ae172b;
 }
+
+/* bottom text */
+.ipn-bottom-text {
+
+}
+
+.ipn-bottom-text span{
+  font-size: 13px;
+  margin-right: 15px;
+}
+
+.ipn-pages {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+.ipn-pages__page label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  font-size: 13px;
+}
+
+.ipn-pages__page label input {
+  border: 1px solid #ae172b;
+  border-radius: 0;
+  width: 34px;
+  height: 34px;
+  padding: 6px;
+  margin-left: 10px;
+}
+
+.ipn-btn-notes {
+  border-radius: 0;
+  background: #ae172b;
+  color: #fff;
+}
+
+.ipn-footer-content {
+  padding: 5px 0;
+}
